@@ -205,18 +205,10 @@ me,](mailto:theater@armandofox.com) I'm always happy to put this in
 front of interested audiences and I can provide references from prior
 presentations if needed.  
 
-I don't ask any compensation: my sole goal is to raise the visibility
-and profile of musical theater in the performing arts, and stimulate
-attendance at musical theater events.
-(Although if I'm
-currently [working on a show](/music-theater), I might appreciate the chance to promote
-it and/or discuss a group block discount for your organization.)
-
 I will
-need a laptop projection setup (HDMI or Thunderbolt input)
-and a way to clearly play sound from my
-Macbook Pro, either from the 1/8" headphone out jack, via USB, or via
-HDMI.  **The sound is a key part of the presentation** so it's important
+need a laptop projection setup
+and a way to clearly play sound.
+**The sound is a key part of the presentation** so it's important
 that the sound be audible, clear, and sufficiently loud for the room.
 
 **My credentials:**
@@ -231,12 +223,12 @@ performance with [Michael
 Boriskin](https://www.facebook.com/MichaelBoriskin/) and others, as
 well as music theory, ear training, ensemble performance, choir, and 
 arranging.
-He's the author of the best book on music direction written by a
-computer scientist ([pianoconductor.com](pianoconductor.com)) and the best book on software
-engineering written by a music director ([saasbook.info](www.saasbook.info)).  
-He has also served on the Boards or Advisory Boards of several local
-theaters.
+As far as he knows, he's the author of the best [book](/books) on music direction written by a
+computer scientist and the best book on software
+engineering written by a music director.
+He has also served on the Boards or Advisory Boards of several Bay Area
+regional and community theaters.
 Armando grew up in New York going to
-the theater and is Latino, multilingual, and bicultural.  In his day
+the theater and is Latino, multilingual (he/él/il/lui), and bicultural.  In his day
 job, he is an award-winning computer science professor and advocate
 for diversity at UC Berkeley.
