@@ -384,7 +384,7 @@ sidebar:
     Music makes you feel a feeling.<br>
     A song makes you feel a thought.
   </dt>
-  <dd>Yip Harburg</dd>
+  <dd>E.Y. "Yip" Harburg</dd>
 </dl>
 
 # Love
@@ -393,8 +393,8 @@ sidebar:
   <dt>
     You held my hand, you taught me love,<br>
     And then you set me free.<br>
-    That's not such an awful ending--<br>
-    if we have to have an ending.<br>
+    That's not such an awful ending<br>
+    If we have to have an ending.<br>
     Is this our maybe happy ending?<br>
     ...We'll see.
   </dt>
