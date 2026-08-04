@@ -299,11 +299,11 @@ toc_label: "Quote categories"
     basilica. If this tendency were to lead to the invasion of the human
     body by technological contrivances, undoubtedly the idea would be to
     expand the gamut of pleasurable sensations to the maximum, and perhaps
-    even to bring into being&emdash;besides sex, narcotics, culinary
-    happiness&emdash;other, as yet unknown, kinds of sensual stimulation
+    even to bring into being&mdash;besides sex, narcotics, culinary
+    happiness&mdash;other, as yet unknown, kinds of sensual stimulation
     and gratification.
   </dt>
-  <dd>Stanis\0142aw Lem, <i>His Master's Voice</i>, translated by
+  <dd>Stanis&lstrok;aw Lem, <i>His Master's Voice</i>, translated by
     Michael Kandel
   </dd>
 
