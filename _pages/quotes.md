@@ -201,7 +201,7 @@ toc_label: "Quote categories"
     whose attribution I don't know:
     "Writing is thinking.  In fact, there is a certain kind of thinking
     that is only accomplished by writing."
-
+  </dd>
     <dt>Education is what's left over after everything that has been learnt is
       forgotten.  </dt>
   <dd>James Bryan Conant, President of Harvard University
