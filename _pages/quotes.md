@@ -4,10 +4,10 @@ permalink: /quotes
 type: page
 layout: single
 sidebar:
-nav: "random"
-toc: true
-toc_sticky: true
-toc_label: "Quote categories"
+  nav: "random"
+  toc: true
+  toc_sticky: true
+  toc_label: "Quote categories"
 ---
 
 # History & Governance
@@ -15,7 +15,7 @@ toc_label: "Quote categories"
 <dl class="quote">
 
   <dt>The past is never dead. It's not even past.</dt>
-  <dd>William Faulker</dd>
+  <dd>William Faulkner</dd>
 
   <dt>[The United Nations] was not created in order to bring us to
     heaven, but in order to save us from hell.
@@ -202,10 +202,11 @@ toc_label: "Quote categories"
     "Writing is thinking.  In fact, there is a certain kind of thinking
     that is only accomplished by writing."
   </dd>
-    <dt>Education is what's left over after everything that has been learnt is
-      forgotten.  </dt>
-  <dd>James Bryan Conant, President of Harvard University
-    from 1833--1853
+
+  <dt>Education is what's left over after everything that has been learnt is
+    forgotten.  </dt>
+  <dd>James Bryant Conant, President of Harvard University
+    from 1933-1953
   </dd>
 
   <dt>Man, unless he has experienced the influence of learning and
@@ -226,10 +227,9 @@ toc_label: "Quote categories"
 
   <dt>You may be better [than your undergraduate students] at what you do, but
     you have something to learn from every one of them. </dt>
-  <dd>[UC Berkeley CS
+  <dd><a href="http://www.eecs.berkeley.edu/BEARS/CS_Anniversary/karp-talk.html">UC Berkeley CS
     professor (and Turing Award winner) Manuel Blum, to UC Berkeley CS
-    Professor (and Turing Award winner) Dick
-    Karp](http://www.eecs.berkeley.edu/BEARS/CS_Anniversary/karp-talk.html)
+    Professor (and Turing Award winner) Dick Karp</a>
   </dd>
 
   <dt>
