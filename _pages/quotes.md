@@ -4,7 +4,7 @@ permalink: /quotes
 type: page
 layout: single
 sidebar:
-  nav: "random"
+nav: "random"
 toc: true
 toc_sticky: true
 toc_label: "Quote categories"
@@ -16,9 +16,9 @@ toc_label: "Quote categories"
 
   <dt>The past is never dead. It's not even past.</dt>
   <dd>William Faulker</dd>
-  
+
   <dt>[The United Nations] was not created in order to bring us to
-  heaven, but in order to save us from hell.
+    heaven, but in order to save us from hell.
   </dt>
   <dd>Dag Hammarskjold, second secretary-general of the UN</dd>
 
@@ -27,7 +27,7 @@ toc_label: "Quote categories"
     it; they are its product and its victors. No wonder therefore that men
     concern themselves with history. </dt>
   <dd>G.R. Elton, <em>The Practice of
-    History</em>
+      History</em>
   </dd>
 
   <dt>In England and the United States, in Denmark, Norway, and Sweden, in
@@ -58,18 +58,18 @@ toc_label: "Quote categories"
   </dd>
 
   <dt>Democracy is the worst form of government except for all those
-  other forms that have been tried.</dt>
+    other forms that have been tried.</dt>
   <dd>Winston Churchill, though he attributed it to someone else</dd>
-  
+
   <dt>
-  As democracy is perfected, the office of president represents, more
-  and more closely, the inner soul of the people. On some great and
-  glorious day the plain folks of the land will reach their heart's
-  desire at last and the White House will be adorned by a downright
-  moron. 
+    As democracy is perfected, the office of president represents, more
+    and more closely, the inner soul of the people. On some great and
+    glorious day the plain folks of the land will reach their heart's
+    desire at last and the White House will be adorned by a downright
+    moron. 
   </dt>
   <dd>
-  H.L. Mencken
+    H.L. Mencken
   </dd>
 
 
@@ -79,7 +79,7 @@ toc_label: "Quote categories"
     of exceptional individual heroism are rarely called for. Bravery is
     required mostly by the desperate side. </dt>
   <dd>Guy Deutscher, <em>Through the
-    Language Glass</em>
+      Language Glass</em>
   </dd>
 
   <dt>Civilization is a stream with banks. The stream is sometimes filled
@@ -90,7 +90,7 @@ toc_label: "Quote categories"
     happened on the banks. Historians are pessimists because they ignore
     the banks of the river. </dt>
   <dd>Will and Ariel Durant, <em>The Story of
-    Civilization</em>
+      Civilization</em>
   </dd>
 
   <dt>Where a great proportion of the people are suffered to languish in
@@ -111,8 +111,8 @@ toc_label: "Quote categories"
     accomplished? The miracle of man is not how far he has sunk but how
     magnificently he has risen. </dt>
   <dd>Robert Ardrey, <em>African Genesis</em>, quoted in Michael Benson, <em>Space Odyssey:
-    Stanley Kubrick, Arthur C. Clarke, and the Making of a
-    Masterpiece</em>.
+      Stanley Kubrick, Arthur C. Clarke, and the Making of a
+      Masterpiece</em>.
   </dd>
 
   <dt>If civilization is to mean anything, people have to acknowledge the
@@ -123,9 +123,9 @@ toc_label: "Quote categories"
   <dt>
     You can always count on Americans to do the right thing, after
     they've tried everything else.
- </dt>
- <dd><em>apocryphally attributed to Winston Churchill</em></dd>
- 
+  </dt>
+  <dd><em>apocryphally attributed to Winston Churchill</em></dd>
+
 </dl>
 
 # Character & Self-formation
@@ -174,7 +174,7 @@ toc_label: "Quote categories"
   <dt>You seldom get what you pay for, but you never get what you don't pay
     for. </dt>
   <dd>Stanley Kubrick, quoted in Michael Benson's <em>Space Odyssey:
-    Stanley Kubrick, Arthur C. Clarke, and the Making of a Masterpiece</em>
+      Stanley Kubrick, Arthur C. Clarke, and the Making of a Masterpiece</em>
   </dd>
 
 
@@ -193,17 +193,17 @@ toc_label: "Quote categories"
   </dt>
   <dd>Bertrand Russell
   </dd>
-  
+
   <dt>
     Writing is thinking on paper.
   </dt>
   <dd>William Zinsser, <i>On Writing Well.</i>  A variant I've seen
-  whose attribution I don't know:
-  "Writing is thinking.  In fact, there is a certain kind of thinking
-  that is only accomplished by writing."
+    whose attribution I don't know:
+    "Writing is thinking.  In fact, there is a certain kind of thinking
+    that is only accomplished by writing."
 
-  <dt>Education is what's left over after everything that has been learnt is
-    forgotten.  </dt>
+    <dt>Education is what's left over after everything that has been learnt is
+      forgotten.  </dt>
   <dd>James Bryan Conant, President of Harvard University
     from 1833--1853
   </dd>
@@ -219,7 +219,7 @@ toc_label: "Quote categories"
   <dt>Love your work and the rest is easy.</dt>
   <dd>Frances Sergi, my fourth grade teacher at The Kew-Forest School,
     New York City</dd>
-  
+
   <dt>He who seeks rest will find boredom; he who seeks work will find
     rest.</dt>
   <dd>Dylan Thomas</dd>
@@ -233,13 +233,13 @@ toc_label: "Quote categories"
   </dd>
 
   <dt>
-  There is no limit to the amount of nonsense you can think, if you
-  think too long alone.
+    There is no limit to the amount of nonsense you can think, if you
+    think too long alone.
   </dt>
   <dd>
-  Canadian economist Jacob Viner, quoted in <i>The 'Cost Disease' in
-  Higher Education: Is Technology the Answer?</i>, William G. Bowen,
-  The Tanner Lectures at Stanford University, October 2012
+    Canadian economist Jacob Viner, quoted in <i>The 'Cost Disease' in
+      Higher Education: Is Technology the Answer?</i>, William G. Bowen,
+    The Tanner Lectures at Stanford University, October 2012
   </dd>
 
   <dt>A person who won't read has no advantage over one who can't read. 
@@ -254,9 +254,9 @@ toc_label: "Quote categories"
 
 <dl class="quote">
 
-    <dt>When the world is running down, you make the best of what's
+  <dt>When the world is running down, you make the best of what's
     still around.</dt>
-    <dd>The Police</dd>
+  <dd>The Police</dd>
 
   <dt>When it feels like life is fucking you, keep changing positions until
     it feels good. </dt>
@@ -287,25 +287,25 @@ toc_label: "Quote categories"
     Park, the day after it burned to the ground
   </dd>
 
-<dt>
-   We were speaking of the first steps along a path to which one could
-affix the sign: <span style="font-size: 90%;">REASON IN THE SERVICE OF THE URGES.</span>
-This because the overwhelming majority of the material products of the
-mind were channeled into sybaritic pursuits. An ingeniously
-constructed television set dispensed intellectual garbage;
-sophisticated transportation technologies made it possible for a
-degenerate, instead of getting soused in his own backyard, to dress up
-a tourist and do the same in the vicinity of Saint Peter's
-basilica. If this tendency were to lead to the invasion of the human
-body by technological contrivances, undoubtedly the idea would be to
-expand the gamut of pleasurable sensations to the maximum, and perhaps
-even to bring into being&emdash;besides sex, narcotics, culinary
-happiness&emdash;other, as yet unknown, kinds of sensual stimulation
-and gratification.
-    </dt>
-    <dd>Stanis\0142aw Lem, <i>His Master's Voice</i>, translated by
-Michael Kandel
-    </dd>
+  <dt>
+    We were speaking of the first steps along a path to which one could
+    affix the sign: <span style="font-size: 90%;">REASON IN THE SERVICE OF THE URGES.</span>
+    This because the overwhelming majority of the material products of the
+    mind were channeled into sybaritic pursuits. An ingeniously
+    constructed television set dispensed intellectual garbage;
+    sophisticated transportation technologies made it possible for a
+    degenerate, instead of getting soused in his own backyard, to dress up
+    a tourist and do the same in the vicinity of Saint Peter's
+    basilica. If this tendency were to lead to the invasion of the human
+    body by technological contrivances, undoubtedly the idea would be to
+    expand the gamut of pleasurable sensations to the maximum, and perhaps
+    even to bring into being&emdash;besides sex, narcotics, culinary
+    happiness&emdash;other, as yet unknown, kinds of sensual stimulation
+    and gratification.
+  </dt>
+  <dd>Stanis\0142aw Lem, <i>His Master's Voice</i>, translated by
+    Michael Kandel
+  </dd>
 
 
 
@@ -350,11 +350,11 @@ Michael Kandel
   </dd>
 
   <dt>Only a Christian would think of our Buddha as 'just a man'. Our Buddha
-    is a being which all men can become&emdash;something greater than
-    himself&emdash;if he can overcome all his illusions. You cling to your
-    illusions&emdash;and call them faith. 
-    </dt>
-    <dd>from Martin Scorsese's film <em>Silence</em>,
+    is a being which all men can become&mdash;something greater than
+    himself&mdash;if he can overcome all his illusions. You cling to your
+    illusions&mdash;and call them faith. 
+  </dt>
+  <dd>from Martin Scorsese's film <em>Silence</em>,
     based on the novel of the same name by Shūsaku Endō
   </dd>
 
@@ -364,10 +364,11 @@ Michael Kandel
   </dd>
 
   <dt>Le soleil ni la mort ne se peuvent regarder fixement.</dt>
-  <dd>François de la Rochefoucauld</dd>
-        
+  <dd>Fran&ccedil;ois de la Rochefoucauld</dd>
+
 
 </dl>
+
 
 # Art
 
@@ -377,19 +378,27 @@ Michael Kandel
   <dd>Franz Liszt, to his biographer</dd>
 </dl>
 
+<dl class="quote">
+  <dt>
+    Words make you think a thought.<br>
+    Music makes you feel a feeling.<br>
+    A song makes you feel a thought.
+  </dt>
+  <dd>Yip Harburg</dd>
+</dl>
 
 # Love
 
 <dl class="quote">
-    <dt>
+  <dt>
     You held my hand, you taught me love,<br>
     And then you set me free.<br>
     That's not such an awful ending--<br>
     if we have to have an ending.<br>
     Is this our maybe happy ending?<br>
     ...We'll see.
-    </dt>
-    <dd>from the Tony-winning musical <i>Maybe Happy Ending</i>, by
+  </dt>
+  <dd>from the Tony-winning musical <i>Maybe Happy Ending</i>, by
     Hue Park and Will Aronson</dd>
 </dl>
 
@@ -407,7 +416,7 @@ Michael Kandel
     break out upon you again, and talk away.</dt>
   <dd>John Adams, on his
     dislike for New Yorkers, quoted in <em>The Address Book: What Street
-    Addresses Reveal About Identity, Race, Wealth, and Power, </em>by Deirdre
+      Addresses Reveal About Identity, Race, Wealth, and Power, </em>by Deirdre
     Mask
   </dd>
 
