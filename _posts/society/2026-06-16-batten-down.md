@@ -49,29 +49,54 @@ me a link" on every site you might conceivably have an account on,
 starting with the obvious candidates like Amazon.  Have 1-click
 ordering turned on?  Stuff will be ordered.  And if you get locked out
 of your email, it is **extremely** difficult to get back in.  For
-Gmail, you can register a separate [recovery email address and phone
-number](https://myaccount.google.com/intro/recovery/email) that can be
+Gmail, you should register a separate [recovery email address and phone
+number](https://myaccount.google.com/intro/recovery/email) belonging to a trusted friend that can be
 used in such cases, although by the time you regain control of your
 email, the damage may be done.
 
-**So, lock down your phone.**  Turn on biometric authentication (Face ID,
-touch ID) for everything.  Set your phone to lock the screen after 30
-seconds of inactivity or whenever you turn off the display.  iPhones
-will self-erase after 10 wrong passcode attempts, so someone who
-obtains your phone can't do much if it is locked.  And if setting up a
-brand new phone from scratch sounds like a lot of work, that's what
-iCloud Backup of your phone is for.  For $2 a month, it's cheap insurance.
-
-**Banks and online finance sites.** Protect every site login with a
+**Online banking/finance websites.** Protect every site login with a
 very strong password (use 1Password or a similar password manager to
 help manage them) and use 2-factor authentication everywhere.  You
 know those checkboxes that say "Remember me on this device and skip
 2FA"?  Don't check them.  2FA is a minor inconvenience compared to the
 consequences.
 
+**So, lock down your phone.**  Turn on biometric authentication (Face ID,
+touch ID) for everything.  Set your phone to lock the screen after 30
+seconds of inactivity or whenever you turn off the display.  Note that
+while some apps explicitly allow Face ID/touch ID to be used instead
+of passwords for login, you can force _any_ iPhone app to require Face
+ID _just to open the app_.  This is particularly valuable for apps
+that are effectively "always logged in" such as your email app.  To
+do this, press and hold any app icon until it starts to jiggle, and
+from the pop-up menu, select "Require Face ID".
+
+For example, the authenticator app I use (Duo Mobile) is
+protected this way. So if someone is trying to access (say) my bank account,
+which is protected by authenticator-app-based 2FA, they would need to
+know my login name and my password, *and* have access to my phone
+which is probably locked,
+*and* even if it's unlocked they need to be able to falsify face ID to
+open the authenticator app to complete 2FA.  At that point it's
+probably too much work and they'll move on to trying your phone
+instead.  You don't have to outrun the bear, just outrun the other
+guy.
+
+
+iPhones will self-erase after 10 wrong passcode attempts, so someone
+who obtains your phone can't do much if it is locked.  And if setting
+up a brand new phone from scratch sounds like a lot of work, that's
+what automatic iCloud Backup of your phone is for.  For $2 a month,
+it's cheap insurance.
+
+
 **SMS-based 2FA is not as secure** as biometric 2FA, authenticator apps
 like Duo Mobile, or passkey apps like 1Password.  If any of those is a
-choice, prefer it over SMS or "email me a link".
+choice, prefer it over SMS or "email me a link".  And speaking of
+passwords, you _do_ use a password manager, right?  You definitely
+*don't* record passwords in a Note, a Google Doc, a Word doc, or
+anything like that, right?  [1Password](1password.com) is my favorite
+of these, but any of them is better than these horribly insecure alternatives.
 
 **Encrypt your laptop drive.**  Apple
 FileVault or Windows BitLocker are the way to do this.  If someone
@@ -86,24 +111,21 @@ and automate its exploitation, is approaching zero._
 
 **Beware of payment apps.** If you use apps like Venmo or Paypal, and
 they are tied to your bank account or a credit card, they are also an
-attack surface.  Secure them accordingly.  On iPhone, you can actually
-set on a per-app basis which apps require face ID to even open the
-app, separately from whether that app happens to offer biometric
-login.  For example, the authenticator app I use (Duo Mobile) is
-protected this way. So if someone is trying to access my bank account,
-which is protected by authenticator-app-based 2FA, they would need to
-know my login name and my password, *and* have access to my phone
-which is probably locked,
-*and* even if it's unlocked they need to be able to falsify face ID to
-open the authenticator app to complete 2FA.  At that point it's
-probably too much work and they'll move on to trying your phone
-instead.  You don't have to outrun the bear, just outrun the other
-guy.
+attack surface.  Secure them accordingly.
 
 **Beware of "login using Google".**  If
 your Gmail account is compromised, so is every site to which it has
 access.  If any of those sites have a built-in way to spend money,
-watch out.
+watch out.  If you're able to login to Google before you get locked
+out of your email, look for the "log out of all sites" option, which
+attempts to log you out of all sites where you're currently logged in
+using Google credentials.
+
+**Don't even use "login using Facebook."**  Facebook is a company led
+by a sociopath who has lost any sense of moral compass he may ever
+have had, and he controls enough of the company's voting stock that he
+sets the direction for the company.  The company cannot be trusted.
+Period.
 
 **Don't install software or browser extensions whose provenance isn't
 rock-solid.**  Even trusted supply chains are now being infected with
@@ -111,20 +133,32 @@ malware.  In fact, I'd suggest avoiding system updates for a while
 unless it's an update specifically targeting a recently discovered
 vulnerability.
 
-**Don't click on links in emails or texts, ever, unless you are 100%
+**Don't click on links in emails or texts, ever, unless you are
+absolutely, positively, 100%
 sure you can vet the sender** (and even then, a well-meaning sender
 may have been fooled into forwarding a poisoned link).  SMS text
-messaging and email are not secure, period.  You cannot assume the
-sender is who they claim to be. Whatsapp, Signal, Telegram, and other
+messaging and email are not secure, period.  Incoming phone numbers
+can be spoofed at modest cost, just as is the case with phone calls.  You cannot assume the
+sender is who they claim to be based on the phone number.
+
+Whatsapp, Signal, Telegram, and other
 end-to-end encrypted messaging apps are far more trustworthy.  I
 prefer Signal because it's open source so the app code is under
-constant scrutiny by many eyeballs.  If an email or text claims to
+constant scrutiny by many eyeballs.  Whatsapp's technology is secure
+(in fact it was developed by the Signal folks) but the fact that
+Whatsapp is owned by Facebook means, to me, that in the long run that
+service [cannot be trusted either](https://increment.com/security/story-of-signal/).
+
+If an email or text claims to
 be from an institution with which you have a relationship (e.g. a
-bank) and looks legitimate or needs attention, manually type in the
+bank, an airline) and looks legitimate or needs attention, manually type in the
 institution's URL in a browser, log in, and locate the service portal
 or message portal or whatever.  There is nothing they can send you via
 a link that cannot also be accessed by manually signing into the site
-and navigating somewhere.
+and navigating somewhere.  Or look up the company's official fraud or
+customer service phone number, call it yourself, and give the name and
+contact information of whoever tried to contact you.  I've been
+phished more than once in this way.
 
 **Don't re-use passwords.** This is a cliche for a reason.  If an
 attacker is able to somehow discover or infer your password for a
@@ -137,13 +171,16 @@ this question regarding the security of a site password: How would you
 feel about using this site if it had _no_ password protection?  If the
 answer is that it would make you uneasy in any way, then you'd better
 choose a strong and unique password for it, since dictionary attacks
-are easier than ever to mount.
+are easier than ever to mount.  And if remembering a zillion strong
+and unique passwords sounds like a pain, that's what password managers
+are for.  It sucks that we have to do this but it's the world we live in.
 
 **Assume all of your personally identifying data is public.**  If you
-form passwords by using your birthday, a part of your address, your
+form passwords by using your birthday, a part of any address where you
+have ever lived, your
 Social Security number, the address of a place you used to live, a
 phone number you once had, your old student ID number, your parents'
-anniversary date, etc., all of
+anniversary date, your mother's maiden name, etc., all of
 that information is relatively easy to get.  It is transacted on the black
 market in large catalogs that are fed to targeting agents.  The
 unfortunate irony is that _the only strong password is one that you
@@ -163,7 +200,7 @@ successful intrusions aren't the result of cracking a password.  They
 may be the result of guessing a weak password, or tricking the user
 into leaking it some other way, such as by directing them to a fake
 but realistic-looking site with a URL that is off in a
-difficult-to-detect way or that includes a legitimate-looking fragment
+difficult-to-detect way, or one that includes a legitimate-looking fragment
 carrying the name of the spoofed site.  A really clumsy example would
 be gooogle.com (which the real Google kindly redirects to their actual
 site, but you might not be so lucky).  The fake site uses the same
@@ -181,8 +218,6 @@ often be tricked into revealing information that compromises others in
 their family as well.
 
 **Smart devices are likely to be Trojan horses.**
-
-
 Internet-connected picture frames, "smart" fridges and washing
 machines and dishwashers, "smart" doorbells, and basically anything
 that asks for permission to connect to your home network should be suspect.
@@ -190,10 +225,10 @@ Ask yourself: does this product _need_ Internet access to do its job?
 A TV has one job---display a picture from a video input.  It does not
 need Internet access to do that.
 A washing machine has one
-job---to wash your clothes---and it does not need Internet access to
+job---to wash your clothes.  It does not need Internet access to
 do that.  The same goes for your dishwasher, fridge, microwave, etc.
 
-There's at least two reasons to be very wary of "smart" devices.
+There are at least two reasons to be very wary of "smart" devices.
 First, 
 any device connected to your home network is in
 a position to essentially rent out your home Internet service to
