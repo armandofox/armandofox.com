@@ -26,14 +26,20 @@ We've become so accustomed to even the most mundane tasks being digitally mediat
 
 # Books & Films About Retro Tech
 
-## Writing, Typing, Typesetting
+## History of writing (committing words to the page)
 
 -   Documentary: [The Typewriter in the 21st Century](https://thetypewritermovie.wordpress.com/)
 -   Documentary: [California Typewriter](http://californiatypewritermovie.com/), a family-owned Bay Area business dedicated to the craft of typewriter repair
+-   Book: [Track Changes: A Literary History of Word Processing](https://amzn.to/2LtPqO9) (my [summary & review](http://armandofox.blogspot.com/2016/08/book-summary-track-changes.html))
+-  Cool place to visit: [Musée de la machine à écrire (typewriter museum)](https://lausannemusees.ch/en_GB/museums/musee-de-la-machine-a-ecrire) in Lausanne, Switzerland.  A collection of machines from the late 1800s onward, curated by a longtime (since 1937) typewriter repairman and collector.
+
+## Typography and Typesetting
+
 -   Documentary: [Helvetica](https://www.hustwit.com/helvetica/), a film about typography, graphic design, and global visual culture
 -   Documentary: [Farewell Etaoin Shrdlu](https://www.youtube.com/watch?v=1MGjFKs9bnU), a documentary about the final day of operation of the Linotype machines at the New York Times, before they switched to digital typesetting
 -   Documentary: [Linotype, The Film](http://linotypefilm.com/), about the revolutionary machine that helped automate hot-metal typesetting and pretty much took us all the way up to the advent of phototypesetting
--   Book: [Track Changes: A Literary History of Word Processing](https://amzn.to/2LtPqO9) (my [summary & review](http://armandofox.blogspot.com/2016/08/book-summary-track-changes.html))
+- Article: [From boiling lead and black art: An essay on the history of mathematical typography](https://www.practicallyefficient.com/2017/10/13/from-boiling-lead-and-black-art.html).  A great condensed history of mathematical typesetting, from early days (craftsmanship) through the "dark period" when papers were typed on typewriters and equations were handwritten and later typeset in horrific ways, through the rise of phototypesetting and Knuth's disappointment with it leading him to create TeX.
+-   Article: [The hardest working font in Manhattan](https://aresluna.org/the-hardest-working-font-in-manhattan/) is a super deep dive into a ubiquitous, proletarian font you probably never thought about. Warning: the rabbit hole goes deep. It contains a pointer to [this more artsy article](https://newsletter.shifthappens.site/archive/a-tale-of-three-skeuomorphs/) that starts out being about the trash can icon on your desktop but is really about other uses of Gorton Normal.
 
 ## Film & Video
 
