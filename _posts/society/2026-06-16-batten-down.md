@@ -240,27 +240,31 @@ possibly on national or state civilian or military infrastructure.
 There is widespread concern that shadow entities, possibly state
 sponsored, are [paying manufacturers to bundle malware into these
 devices that enables just such attacks.](https://youtu.be/apEPPKYgLL0?si=bQjGCtje_UxhwcE6)
+More banal but equally disturbing, companies are doing this themselves for profit:
+here's a [streaming stick you can
+buy](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/)
+that, while you're streaming video, rents out your Internet connection
+to who-knows-whom, and when you're **not** streaming video, becomes a
+bot in clickfraud advertising scheme.  Shockingly, it's made by a
+Chinese company that also owns server farm capacity and an ad-serving
+network.
 
-
-
-Second, even "non-malignant" smart products connected to your home network have access to all
+Second, even "non-malicious" smart devices connected to your home network have access to all
 traffic to and from every other device on that network,
 and can sell that data.   (Your actual transactions with Web sites are encrypted, but
 the names and pages of the sites you visit and the times you're active
 are readable by any device on the network.)
-For instance, "smart
-TVs" [gather and sell data
+But non-malicious isn't the same as benign: "smart
+TVs" are explicitly designed to [gather and sell data
 about what you're
 watching](https://www.consumerreports.org/electronics/privacy/how-to-turn-off-smart-tv-snooping-features-a4840102036/).
 Smart thermostats and smart doorbells know a lot about when you're probably not home.
-Of course, some devices legitimately use Internet access to do part of their job,
-such as a streaming box or digital photo frame.  A device from a
-reputable company with a long history (e.g. Roku, Google) 
-it is probably OK; a discount Chinese knockoff product is probably
-not.
-(Remember, those knockoffs may be ridiculously cheap, but [when you aren't paying
-for the product, _you are the product._](https://theconversation.com/if-its-free-online-you-are-the-product-95182))
-
+Of course, some devices legitimately need Internet access to do their job,
+such as a streaming box or digital photo frame.  How much do you trust the company that produces the device? 
+Roku or Google are probably OK; a discount Chinese knockoff product, not so much.
+And as I mentioned earlier, AI has made it [much easier to
+compromise and subvert](https://instapaper.com/read/2036798779) 
+benign devices.
 
 ## Summing it all up -- if you do nothing else, do these things
 
