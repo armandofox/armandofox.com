@@ -8,7 +8,7 @@ layout: home
 ![Armando at Machu Picchu, 2014](/assets/img/machupicchu.jpg){:align="right"}
 Greetings!  I'm a Professor of Computer Science, Faculty Adviser for
 Digital Learning in the Office of the Vice Provost for Undergraduate
-Education, and a Diversity & Equity Adviser for the College of
+Education, and a member of the Council on Inclusive Excellence for the College of
 Engineering.
 
 I'm also the faculty lead for the development and expansion of
@@ -21,6 +21,14 @@ I'm a musical theater fanatic and performer, and an aficionado of computing hist
 
 My research focuses on CS education and technology-enhanced learning, at the intersection of pedagogy, human-computer interaction, and programming systems.
 
+Teaching in 2026-2027:
+
+* Fall 2026 & Spring 2027: [CS194/294 STAR Assessments for Mastery Learning](https://eecs.link/star), with Dan Garcia (EECS) and Josh Grossman (CDSS).  Design and evaluation of skill-tagged, autogradable, randomized summative and formative assessments for (primarily) STEM courses.
+
+* Spring 2027:  [CS169L  Software Engineering Team Project](cs169l.cs169.org), co-taught with Michael Ball.  Must have B+ or better in CS169A to enroll, or demonstrable equivalent experience by taking diagnostic exam.
+
+* Spring 2027: [CS375 Teaching Techniques for CS](cs375.org)
+
 Courses I regularly teach:
 
 * [CS169A Intro to Software Engineering](cs169a.cs169.org) (and the accompanying [CS169L project
@@ -32,6 +40,8 @@ Grossman, and others)
 * Sometimes, the freshman seminar [Our Digital Quandary](digitalquandary.org), exploring issues at the intersection of computer science and society.
 
 # News
+
+* August 2026: The brand-new, 100-seat Computer-Based Testing Facility (CBTF) [opens at Moffitt Library!](/cbtf)
 
 * May 2026: [Can A Computer Scientist Still
 Hope?](https://calearninglab.substack.com/p/can-a-computer-scientist-still-hope)

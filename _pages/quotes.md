@@ -22,6 +22,12 @@ sidebar:
   </dt>
   <dd>Dag Hammarskjold, second secretary-general of the UN</dd>
 
+  <dt>
+    You can always count on Americans to do the right thing, after
+    they've tried everything else.
+  </dt>
+  <dd><em>apocryphally attributed to Winston Churchill</em></dd>
+
   <dt>The future is dark, the present burdensome. Only the past, dead and
     finished, bears contemplation. Those who look upon it have survived
     it; they are its product and its victors. No wonder therefore that men
@@ -73,14 +79,17 @@ sidebar:
   </dd>
 
 
+# War
+
+  <dt>Ubi solitudinem faciunt, pacem appellant. (They make a wasteland, and call it peace.)</dt>
+  <dd>Tacitus, <em>Agricola</em></dd>
+  
   <dt>When one hears about acts of extraordinary bravery in combat, it is
     usually a sign that the battle has not been going terribly well. For
     when wars unfold according to plan and one's own side is winning, acts
     of exceptional individual heroism are rarely called for. Bravery is
     required mostly by the desperate side. </dt>
-  <dd>Guy Deutscher, <em>Through the
-      Language Glass</em>
-  </dd>
+  <dd>Guy Deutscher, <em>Through the Language Glass</em> </dd>
 
   <dt>Civilization is a stream with banks. The stream is sometimes filled
     with blood from people killing, stealing, shouting and doing things
@@ -89,8 +98,7 @@ sidebar:
     whittle statues. The story of civilization is the story of what
     happened on the banks. Historians are pessimists because they ignore
     the banks of the river. </dt>
-  <dd>Will and Ariel Durant, <em>The Story of
-      Civilization</em>
+  <dd>Will and Ariel Durant, <em>The Story of Civilization</em>
   </dd>
 
   <dt>Where a great proportion of the people are suffered to languish in
@@ -99,7 +107,7 @@ sidebar:
     the same in all countries; the condition of the lower orders, the poor
     especially, was the true mark of national discrimination.</dt>
   <dd>Boswell,
-    <em>Life of Johnson</em>, quoted in Paul Theroux, <em>The Old Patagonian Express</em>
+    <em>Life of Johnson</em>
   </dd>
 
   <dt>We were born of risen apes, not fallen angels, and the apes were armed
@@ -120,11 +128,6 @@ sidebar:
   <dd>John Hersey, author of <em>Hiroshima</em>
   </dd>
 
-  <dt>
-    You can always count on Americans to do the right thing, after
-    they've tried everything else.
-  </dt>
-  <dd><em>apocryphally attributed to Winston Churchill</em></dd>
 
 </dl>
 
@@ -132,11 +135,13 @@ sidebar:
 
 <dl class="quote">
 
+<!--
   <dt>
     Envy is wishing you were in their place; jealousy is wishing they
     weren't.
   </dt>
   <dd>me</dd>
+-->
 
   <dt>The ultimate measure of a man is not where he stands in moments of
     comfort and convenience, but where he stands at times of challenge and
@@ -228,7 +233,7 @@ sidebar:
   <dt>You may be better [than your undergraduate students] at what you do, but
     you have something to learn from every one of them. </dt>
   <dd><a href="http://www.eecs.berkeley.edu/BEARS/CS_Anniversary/karp-talk.html">UC Berkeley CS
-    professor (and Turing Award winner) Manuel Blum, to UC Berkeley CS
+    Professor (and Turing Award winner) Manuel Blum, to UC Berkeley CS
     Professor (and Turing Award winner) Dick Karp</a>
   </dd>
 
@@ -303,7 +308,7 @@ sidebar:
     happiness&mdash;other, as yet unknown, kinds of sensual stimulation
     and gratification.
   </dt>
-  <dd>Stanis&lstrok;aw Lem, <i>His Master's Voice</i>, translated by
+  <dd>Stanisław Lem, <i>His Master's Voice</i>, translated by
     Michael Kandel
   </dd>
 
