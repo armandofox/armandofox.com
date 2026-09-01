@@ -45,11 +45,13 @@ Read whichever background speaks to you most...
   <h2> AI</h2>
 
 
-The AI "cheating crisis" is real, and there have been 
-<a href="https://www.nytimes.com/2025/08/26/opinion/culture/ai-chatgpt-college-cheating-medieval.html">articles</a>
-<a href="https://www.economist.com/united-states/2025/11/20/ai-is-accelerating-a-tech-backlash-in-american-classrooms">suggesting</a>
-that we
-go back to proctored exams and handwritten blue books.
+<a href="https://www.theatlantic.com/ideas/2026/05/princeton-ai-honor-code/687144/">So much for honor codes:</a>
+The AI "cheating crisis"
+<a href="https://www.theatlantic.com/ideas/2026/08/ai-use-college-cheat/688451/">is real</a>,
+and some
+<a href="https://www.nytimes.com/2025/08/26/opinion/culture/ai-chatgpt-college-cheating-medieval.html">have</a>
+<a href="https://www.economist.com/united-states/2025/11/20/ai-is-accelerating-a-tech-backlash-in-american-classrooms">suggested</a>
+going back to proctored exams and handwritten blue books.
 Yes to human proctors!  But UIUC professor
 <a href="zilles.cs.illinois.edu">Craig Zilles</a> and I strongly agree that going back
 to "blue books" is a good idea:  Advances in technology make 
