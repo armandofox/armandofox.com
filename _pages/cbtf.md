@@ -46,14 +46,14 @@ Read whichever background speaks to you most...
 
 
 The AI "cheating crisis" is real, and there have been 
-[articles](https://www.nytimes.com/2025/08/26/opinion/culture/ai-chatgpt-college-cheating-medieval.html)
-[suggesting](https://www.economist.com/united-states/2025/11/20/ai-is-accelerating-a-tech-backlash-in-american-classrooms) we
+<a href="https://www.nytimes.com/2025/08/26/opinion/culture/ai-chatgpt-college-cheating-medieval.html">articles</a>
+<a href="https://www.economist.com/united-states/2025/11/20/ai-is-accelerating-a-tech-backlash-in-american-classrooms">suggesting</a>
+that we
 go back to proctored exams and handwritten blue books.
-Yes to human proctors!  But UIUC professor [Craig
-Zilles](zilles.cs.illinois.edu) and I strongly agree that going back
-to "blue books" is a good idea:  Advances in technology make [computer-based testing a far
-superior
-alternative](https://www.insidehighered.com/opinion/views/2026/03/19/blue-books-are-not-answer-ai-opinion).
+Yes to human proctors!  But UIUC professor
+<a href="zilles.cs.illinois.edu">Craig Zilles</a> and I strongly agree that going back
+to "blue books" is a good idea:  Advances in technology make 
+<a href="https://www.insidehighered.com/opinion/views/2026/03/19/blue-books-are-not-answer-ai-opinion">computer-based testing a far superior alternative.</a>
   </div>
 </div>
 
