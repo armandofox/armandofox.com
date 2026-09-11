@@ -392,6 +392,12 @@ sidebar:
   <dd>E.Y. "Yip" Harburg</dd>
 </dl>
 
+<dl class="quote">
+ <dt>    
+ The opinion that art should have nothing to do with politics is itself a political attitude.
+ </dt>
+ <dd>George Orwell</dd>
+ 
 # Love
 
 <dl class="quote">
