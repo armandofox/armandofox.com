@@ -252,6 +252,8 @@ sidebar:
   <dd>Mark Twain
   </dd>
 
+  <dt>If you can't build it,  you don't understand it.</dt>
+  <dd>Richard Feynman</dd>
 
 </dl>
 
