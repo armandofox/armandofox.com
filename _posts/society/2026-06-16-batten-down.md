@@ -68,8 +68,8 @@ while some apps explicitly allow Face ID/touch ID to be used instead
 of passwords for login, you can force _any_ iPhone app to require Face
 ID _just to open the app_.  This is particularly valuable for apps
 that are effectively "always logged in" such as your email app.  To
-do this, press and hold any app icon until it starts to jiggle, and
-from the pop-up menu, select "Require Face ID".
+do this, press and hold any app icon until the
+pop-up menu appears, and select "Require Face ID".
 
 For example, the authenticator app I use (Duo Mobile) is
 protected this way. So if someone is trying to access (say) my bank account,
@@ -82,8 +82,7 @@ probably too much work and they'll move on to trying your phone
 instead.  You don't have to outrun the bear, just outrun the other
 guy.
 
-
-iPhones will self-erase after 10 wrong passcode attempts, so someone
+Make sure your iPhones is set to self-erase after 10 wrong passcode attempts (Settings > Security and Privacy), so someone
 who obtains your phone can't do much if it is locked.  And if setting
 up a brand new phone from scratch sounds like a lot of work, that's
 what automatic iCloud Backup of your phone is for.  For $2 a month,
@@ -92,14 +91,27 @@ it's cheap insurance.
 
 **SMS-based 2FA is not as secure** as biometric 2FA, authenticator apps
 like Duo Mobile, or passkey apps like 1Password.  If any of those is a
-choice, prefer it over SMS or "email me a link".  And speaking of
-passwords, you _do_ use a password manager, right?  You definitely
-*don't* record passwords in a Note, a Google Doc, a Word doc, or
-anything like that, right?  [1Password](1password.com) is my favorite
-of these, but any of them is better than these horribly insecure alternatives.
+choice, prefer it over SMS or "email me a link".  Also, for many
+mobile phone carriers, SMS messages _are not delivered_ when the phone
+is roaming outside the USA.  (Message services that use data, such as
+WhatsApp, Signal, and Telegram, don't have this limiation.  iMessage,
+available on Apple only, is a hybrid SMS/data service that uses the
+data service when both parties have access to it, but falls back to
+SMS otherwise; most SMS-based 2FA use the latter mechanism, so you
+may be unable receive SMS-based unlock codes while traveling abroad.)
+
+**Use a secure messaging app.**  Speaking of SMS, don't use it.
+Whatsapp, Signal, Telegram, and other
+end-to-end encrypted messaging apps are far more trustworthy.  I
+prefer Signal because it's open source so the app code is under
+constant scrutiny by many eyeballs.  Whatsapp's technology is secure
+(in fact it was developed by the Signal folks) but the fact that
+Whatsapp is owned by Facebook means, to me, that in the long run that
+service [cannot be trusted either](https://increment.com/security/story-of-signal/).
 
 **Encrypt your laptop drive.**  Apple
-FileVault or Windows BitLocker are the way to do this.  If someone
+FileVault or Windows BitLocker are the way to do this.  You can turn
+them on in your system settings.  This way, if someone
 steals your computer, they cannot get at your data even if they remove
 the drive.  Yes, this requires remembering another password, but
 again, cheap insurance.  Imagine what the size of the attack surface
@@ -109,7 +121,7 @@ sifting through all the crap to find something valuable: they can use
 AI for that.  _The effort to find some possibly useful bit of info,
 and automate its exploitation, is approaching zero._
 
-**Beware of payment apps.** If you use apps like Venmo or Paypal, and
+**Beware of payment apps.** If you use phone apps like Venmo or Paypal, and
 they are tied to your bank account or a credit card, they are also an
 attack surface.  Secure them accordingly.
 
@@ -121,17 +133,27 @@ out of your email, look for the "log out of all sites" option, which
 attempts to log you out of all sites where you're currently logged in
 using Google credentials.
 
-**Don't even use "login using Facebook."**  Facebook is a company led
+**Don't even use "login using Facebook."**  Facebook (now Meta) is a company led
 by a sociopath who has lost any sense of moral compass he may ever
 have had, and he controls enough of the company's voting stock that he
 sets the direction for the company.  The company cannot be trusted.
-Period.
+Period.  And remember that WhatsApp is a Facebook (now Meta) product.
+Because WhatsApp messages are end-to-end encrypted, there is only a
+limited amount of info they can extract from your WhatsApp
+interactions, such as the metadata (who you messaged/called, when,
+where you were at the time, etc.) but they are trying as hard as they
+can to monetize that data and build a dossier of you.  Don't help
+them.  Use Signal instead.
 
 **Don't install software or browser extensions whose provenance isn't
 rock-solid.**  Even trusted supply chains are now being infected with
 malware.  In fact, I'd suggest avoiding system updates for a while
 unless it's an update specifically targeting a recently discovered
-vulnerability.
+vulnerability.  Browsers extensions are particularly insidious because
+most of them are only able to do their job by having **complete access
+to inspect and modify every single byte on every single web page you
+visit, ever.**  Think about who you'd allow to look over your shoulder
+**24 hours a day** as you browse the web.
 
 **Don't click on links in emails or texts, ever, unless you are
 absolutely, positively, 100%
@@ -139,15 +161,11 @@ sure you can vet the sender** (and even then, a well-meaning sender
 may have been fooled into forwarding a poisoned link).  SMS text
 messaging and email are not secure, period.  Incoming phone numbers
 can be spoofed at modest cost, just as is the case with phone calls.  You cannot assume the
-sender is who they claim to be based on the phone number.
-
-Whatsapp, Signal, Telegram, and other
-end-to-end encrypted messaging apps are far more trustworthy.  I
-prefer Signal because it's open source so the app code is under
-constant scrutiny by many eyeballs.  Whatsapp's technology is secure
-(in fact it was developed by the Signal folks) but the fact that
-Whatsapp is owned by Facebook means, to me, that in the long run that
-service [cannot be trusted either](https://increment.com/security/story-of-signal/).
+sender is who they claim to be based on the phone number or the email
+return address.  (Data-based encrypted
+messaging apps like WhatsApp and Signal are largely immune to this
+kind of spoofing; email
+can be secured against this using GPG/PGP, but nobody does.)
 
 If an email or text claims to
 be from an institution with which you have a relationship (e.g. a
@@ -158,7 +176,8 @@ a link that cannot also be accessed by manually signing into the site
 and navigating somewhere.  Or look up the company's official fraud or
 customer service phone number, call it yourself, and give the name and
 contact information of whoever tried to contact you.  I've been
-phished more than once in this way.
+phished more than once in this way (so far, without success, I'm happy
+to say).
 
 **Don't re-use passwords.** This is a cliche for a reason.  If an
 attacker is able to somehow discover or infer your password for a
@@ -174,6 +193,14 @@ choose a strong and unique password for it, since dictionary attacks
 are easier than ever to mount.  And if remembering a zillion strong
 and unique passwords sounds like a pain, that's what password managers
 are for.  It sucks that we have to do this but it's the world we live in.
+
+**And speaking of passwords,** you _do_ use a password manager, right?
+You definitely *don't* record passwords in a e-note, Post-It, Google Doc, 
+Word document, or anything like that, right?  [1Password](1password.com) is
+my favorite of these, but any of them is better than these horribly
+insecure alternatives.  These are also a great place to keep sensitive
+info other than passwords, such as credit card numbers, combination
+lock combos, Mom's email password for when she forgets it, and so on.
 
 **Assume all of your personally identifying data is public.**  If you
 form passwords by using your birthday, a part of any address where you
@@ -202,8 +229,8 @@ into leaking it some other way, such as by directing them to a fake
 but realistic-looking site with a URL that is off in a
 difficult-to-detect way, or one that includes a legitimate-looking fragment
 carrying the name of the spoofed site.  A really clumsy example would
-be gooogle.com (which the real Google kindly redirects to their actual
-site, but you might not be so lucky).  The fake site uses the same
+be [gooogle.com](gooogle.com) (which the real Google kindly redirects to their actual
+site, but you might not be [so lucky](https://pornhub.com)).  The fake site uses the same
 login flow as the real site, but harvests your password, then
 redirects you to the real site with some sort of one-off error
 message.  Most people say "It's probably just a glitch" and login
@@ -217,7 +244,7 @@ folks as a group are just plain easier to scam and intimidate, and can
 often be tricked into revealing information that compromises others in
 their family as well.
 
-**Smart devices are likely to be Trojan horses.**
+**"Smart" home devices are likely to be Trojan horses.**
 Internet-connected picture frames, "smart" fridges and washing
 machines and dishwashers, "smart" doorbells, and basically anything
 that asks for permission to connect to your home network should be suspect.
@@ -232,22 +259,25 @@ There are at least two reasons to be very wary of "smart" devices.
 First, 
 any device connected to your home network is in
 a position to essentially rent out your home Internet service to
-others.  Why would anyone want to rent your home internet service?
-Usually to do things they wouldn't want do from their own home, or to
+others.  Why would anyone want to rent your home internet service when
+that service is so cheap?
+Usually to do things they wouldn't want do from their own home, such
+as route traffic from questionable sites, or to
 recruit your smart device for a [distributed denial of service
 attack](https://en.wikipedia.org/wiki/Denial-of-service_attack),
-possibly on national or state civilian or military infrastructure.
+possibly on civilian or military infrastructure.
 There is widespread concern that shadow entities, possibly state
 sponsored, are [paying manufacturers to bundle malware into these
 devices that enables just such attacks.](https://youtu.be/apEPPKYgLL0?si=bQjGCtje_UxhwcE6)
 More banal but equally disturbing, companies are doing this themselves for profit:
-here's a [streaming stick you can
+for example, here's a [streaming stick you can
 buy](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/)
 that, while you're streaming video, rents out your Internet connection
 to who-knows-whom, and when you're **not** streaming video, becomes a
-bot in clickfraud advertising scheme.  Shockingly, it's made by a
+bot in a clickfraud advertising scheme.  Shockingly, it's made by a
 Chinese company that also owns server farm capacity and an ad-serving
-network.
+network.  My late uncle summed it up best: "One thing I have learned
+is that the world is _teeming_ with assholes."
 
 Second, even "non-malicious" smart devices connected to your home network have access to all
 traffic to and from every other device on that network,
@@ -260,8 +290,11 @@ about what you're
 watching](https://www.consumerreports.org/electronics/privacy/how-to-turn-off-smart-tv-snooping-features-a4840102036/).
 Smart thermostats and smart doorbells know a lot about when you're probably not home.
 Of course, some devices legitimately need Internet access to do their job,
-such as a streaming box or digital photo frame.  How much do you trust the company that produces the device? 
-Roku or Google are probably OK; a discount Chinese knockoff product, not so much.
+such as a streaming box or digital photo frame.
+So how much do you trust the company that produces the device? 
+Established vendors with a lot to lose, like Roku or Google, are
+probably OK; a discount Chinese knockoff product from a company that
+didn't exist last month and probably won't exist for long, not so much.
 And as I mentioned earlier, AI has made it [much easier to
 compromise and subvert](https://instapaper.com/read/2036798779) 
 benign devices.
@@ -278,7 +311,7 @@ email-based 2FA
 account--either a secondary (e.g. work) email you reliably have access
 to, or a trusted loved one who can help you out
 
-* Use strong random passwords and use a password manager like
+* Use reasonable passwords, don't repeat them, and use a password manager like
 1Password to track them
 
 * Don't click on links in email or messages unless you're 100% sure
@@ -288,3 +321,5 @@ who the sender is, and sometimes not even then
 possible instead of SMS
 
 * Prefer dumb appliances and keep them off your network
+
+Good luck. Don't say I didn't warn you.
