@@ -7,7 +7,24 @@ sidebar:
 layout: single
 ---
 
+# Feedback on your talk
+
+Unless you've given lots of talks, you can probably benefit from this feedback before I've even heard your talk:
+
+* You have too many slides.  1 slide == 1.5 to 2 minutes of talking, averaged over large numbers of slides.  
+
+* You haven't rehearsed enough. You're not speaking fluidly, or you're reading the slides (or worse, a script) rather than telling me a story accentuated by your slides.
+
+* There's way too much text on your slides.  Am I supposed to read every word?  If so, what purpose does your speaking serve?  Are you planning to read every word?  If so, what purpose does your speaking serve?
+
+* There's way too much stuff on your slides.  If I need to understand that level of detail, you'd better be prepared to spend a lot of time on that one slide.
+
+* Please, start by telling me what the point is and why I should care.  Otherwise you've already lost me by slide 2.
+
+
 Are you giving a technical talk on a recent research project or course project?  Here's some tips to make it an engaging and memorable talk, whether it's a chalk talk, poster spiel, or slide presentation.
+
+# Now that you've integrated that feedback...
 
 If your talk is accompanied by visuals (i.e. slides), after reading this piece you may also want to read [Preparing Good Slides](http://www.armandofox.com/for-students/preparing-good-slides).
 
@@ -18,7 +35,7 @@ If your talk is accompanied by visuals (i.e. slides), after reading this piece y
 -   What did you just say again?
 -   There will be questions...
 
-# Know thy audience and watch thy jargon
+## Know thy audience and watch thy jargon
 
 
 Know your audience!  At typical REU/SURF presentations, the audience consists of a wide variety of people from different disciplines.  Roughly, the structure of your talk should reflect the following goals: (a) hook everyone (including those not in your area) on your topic/problem; (b) impress the experts with your specific work; (c) wrap up and recapture the attention of the non-experts.  The fraction of your talk devoted to each of these depends on the level of sophistication of your audience.
@@ -27,7 +44,7 @@ Framing the problem can be a challenge.  Are there popular-press or "real-world
 
 Beware of jargon, which covers both terms and concepts.  Some people don't know what public-key cryptography is; others are specialists and just want to know which cryptosystem you used.  Some people aren't familiar with the concept of separating a user interface from a device or application; plan to explain it if needed.
 
-# Keep the big picture in mind
+## Keep the big picture in mind
 
 
 ***What is the high level view of what's going on?*** You need to motivate the overall project to an audience who might be thoroughly unfamiliar with it.  In a SURF talk, it might take up to 1/3 of the talk to motivate the problem and be sure everyone understands (at least at a high level) why it's useful, interesting, etc.  This is time well spent: if people don't understand the ultimate goal, they probably won't pay attention to what you did.
@@ -36,14 +53,14 @@ Beware of jargon, which covers both terms and concepts.  Some people don't know
 
 ***If your efforts succeed, what will you have demonstrated?*** Another way to ask this is: what is the "research question" (or questions) being addressed here?  In other words, ten years from now, when the hardware, software, etc. have all changed and the computers of the day make today's computers look like Tinkertoys, what fundamental nugget of an idea will still be considered relevant and applicable?  This is often very hard to identify, and it may be that your own piece of the project contributes only a small part toward forming that Big Idea, but research is a building that has to be built one painful brick at a time.  (Ask any Ph.D. student.)
 
-# Tell me a story, don't read me an article
+## Tell me a story, don't read me an article
 
 
 Rehearse your talk enough that you don't need paper notes (or, at most, minimal notes -- two or three 3×5 index cards for the whole talk).  If you make eye contact, engage your audience, and tell them a story, they will pay attention.  Try not to read from notes; they can read a paper as well as anyone.  Having a speaker bring the material to life is what makes a talk different and potentially a better avenue for communicating your work to a lay audience.
 
 Don't be afraid to use humor.  If a funny picture, animation, joke, etc. is appropriate, it keeps the audience interested.  But don't fall into the extremely annoying trap of using these gratuitously; it distracts the audience and gives the impression that you are using these to cover a lack of competence with the material.
 
-# Pace yourself and rehearse
+## Pace yourself and rehearse
 
 
 You won't have time to say everything you want.  The higher level the talk, the less detail you'll have time for.  A time-tested rule of thumb is: 2 minutes per slide.  This sounds conservative, but it is very well borne out on average.  Therefore, excluding the title/outline and conclusion slides, you should have half as many slides as you have minutes to speak.
@@ -52,12 +69,12 @@ You won't have time to say everything you want.  The higher level the talk, the
 
 A way to help with timing is to find a couple of key "timepoints" in the talk ("By the time I get to this slide, I should be n minutes into the talk").  Once again, rehearsal is key to debugging this.  Remember, if you run out of material early, you are still prepared with a level of detail deeper than your talk, so you can use the extra time to elaborate on a particular point of interest to you; but if you are running short of time, you won't be able to communicate everything you want to say, and your audience will not come away with a representative picture of what you did or why they should care.
 
-# What did you just say again?
+## What did you just say again?
 
 
 Especially if the middle part of your talk is aimed at technical experts, be sure you recap towards the end what the overall problem was and what your contribution was.  Plan on 1-2 slides for this.  People best remember the beginning and the end, so make sure these are rock solid.  (Ask anyone who has written a Broadway musical if you don't believe this.)  It may be appropriate to include "future work" here -- things left to be done (some of which may have been discovered as a result of your work, which is always good) and new issues that came up as a result of your work.
 
-# There will be questions...
+## There will be questions...
 
 
 People will ask about stuff that was not in your talk.  The main preparation/rehearsal, then, is to know your material at one level of detail deeper than your slides.  Usually you cannot predict the questions; so, although you should make sure you can explain every point on your slides in additional detail if necessary,  do not expect that those are the only questions you will get.  People remember how well you handled your questions, since it demonstrates real familiarity with your material (anyone can rehearse and deliver a prepared talk on a topic they know little about).
