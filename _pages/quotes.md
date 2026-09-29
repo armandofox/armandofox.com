@@ -78,6 +78,7 @@ sidebar:
     H.L. Mencken
   </dd>
 
+</dl>
 
 # War
 
@@ -135,13 +136,6 @@ sidebar:
 
 <dl class="quote">
 
-<!--
-  <dt>
-    Envy is wishing you were in their place; jealousy is wishing they
-    weren't.
-  </dt>
-  <dd>me</dd>
--->
 
   <dt>The ultimate measure of a man is not where he stands in moments of
     comfort and convenience, but where he stands at times of challenge and
@@ -192,6 +186,11 @@ sidebar:
 # Education & Work
 
 <dl class="quote">
+
+
+    <dt>Give me the child until he is seven, and I will give you the man.</dt>
+    <dd>St. Ignatius Loyola</dd>
+
 
   <dt>
     Most people would sooner die than think. In fact, they do so.
@@ -252,7 +251,7 @@ sidebar:
   <dd>Mark Twain
   </dd>
 
-  <dt>If you can't build it,  you don't understand it.</dt>
+  <dt>What I cannot create, I do not understand.</dt>
   <dd>Richard Feynman</dd>
 
 </dl>
@@ -328,6 +327,9 @@ sidebar:
     novel <em>Cloud Atlas</em>
   </dd>
 
+  <dt>One must wait until the evening to see how splendid the day has been.</dt>
+  <dd>Sophocles</dd>
+
   <dt>He who fights with monsters should look to it that he himself does not
     become a monster. For when you look deep into the abyss, the abyss
     also looks into you.    </dt>
@@ -385,7 +387,6 @@ sidebar:
   <dd>Franz Liszt, to his biographer</dd>
 </dl>
 
-<dl class="quote">
   <dt>
     Words make you think a thought.<br>
     Music makes you feel a feeling.<br>
@@ -394,12 +395,13 @@ sidebar:
   <dd>E.Y. "Yip" Harburg</dd>
 </dl>
 
-<dl class="quote">
  <dt>    
  The opinion that art should have nothing to do with politics is itself a political attitude.
  </dt>
  <dd>George Orwell</dd>
- 
+
+</d>
+
 # Love
 
 <dl class="quote">
