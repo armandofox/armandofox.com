@@ -53,8 +53,8 @@ and some
 <a href="https://www.economist.com/united-states/2025/11/20/ai-is-accelerating-a-tech-backlash-in-american-classrooms">suggested</a>
 going back to proctored exams and handwritten blue books.
 Yes to human proctors!  But UIUC professor
-<a href="zilles.cs.illinois.edu">Craig Zilles</a> and I strongly agree that going back
-to "blue books" is a good idea:Advances in technology make 
+<a href="zilles.cs.illinois.edu">Craig Zilles</a> and I strongly <strong>disagree</strong> that going back
+to "blue books" is a good idea: Advances in technology make 
 <a href="https://www.insidehighered.com/opinion/views/2026/03/19/blue-books-are-not-answer-ai-opinion">computer-based testing a far superior alternative.</a>
   </div>
 </div>
