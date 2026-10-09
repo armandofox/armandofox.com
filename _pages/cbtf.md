@@ -71,6 +71,8 @@ well as academic integrity, and even [teaching students how to create
 and evaluate](https://eecs.link/star) rich authentic assessments that
 work with [PrairieLearn](prairielearn.org).
 
+The CBTF is a keystone component of the larger [Golden Bear Testing Centers initiative](https://ue.berkeley.edu/projects-initiatives/golden-bear-testing-centers-initiative) overseen by the Division of Undergraduate Education.
+
 # Short Reads
 
 * Craig Zilles and Armando Fox,
