@@ -82,7 +82,7 @@ The CBTF is a keystone component of the larger [Golden Bear Testing Centers init
 [Scalable Exam Administration: The Proctoring Crisis Requires a SEA Change](/assets/pdf/SEAChangeInAssessment-CACM.pdf), submitted to Communications of the ACM.  The key ingredient to scalable exam administration: not all students take the exam simultaneously.  This entails three other requirements: no real-time answers to clarifying questions, no paper cheatsheets, uniform-length exam slots.  Once you take on board "not simultaneous," the other derived requirements follow.  Here's why non-simultaneous is key to scalability, and how you meet both that requirement and the derived ones.
 
 * Armando Fox,
-[Bootstrapping a Computer-Based Testing Facility Using Shared Lab Space](https://drive.google.com/file/d/1k51QI2ZprXv7exWdve0vO85ZPbEQzLcP/view?usp=drive_link).  An experience report of growing our CBTF efforts from 230 student in 1 course using shared lab space to over 5,500 students in over 20 courses using a dedicated 100-seat facility.
+[Bootstrapping a Computer-Based Testing Facility Using Shared Lab Space](https://doi.acm.org?doi=3795867.3830974).  An experience report of growing our CBTF efforts from 230 student in 1 course using shared lab space to over 5,500 students in over 20 courses using a dedicated 100-seat facility.  Watch the 15-minute [talk from SIGCSE-Virtual 2026](https://youtu.be/zqFvyTLhOS8).
 
 # Updates
 
