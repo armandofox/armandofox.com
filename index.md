@@ -41,6 +41,8 @@ Grossman, and others)
 
 # News
 
+* November 2026: A [series of three articles](https://cmd-it.org/project/leap-alliance/#:~:text=have%20authored%20three%20articles) on how the CMD-IT LEAP Alliance's dissemination of best practices among CS-PhD-granting institutions is helping to diversify the <u>LEA</u>dership and <u>P</u>rofessoriate in computing.
+
 * August 2026: The brand-new, 100-seat Computer-Based Testing Facility (CBTF) [opens at Moffitt Library!](/cbtf)
 
 * May 2026: [Can A Computer Scientist Still
