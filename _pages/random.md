@@ -23,6 +23,8 @@ Strand Books in New York.  My favorite independents in the Bay Area
 include Bird & Beckett in Glen Park, Moe's in Berkeley, Borderlands in
 the Mission, and City Lights in North Beach.
 
+- The Guardian's 2026 list of [100 best novels in English](https://www.theguardian.com/books/2015/aug/17/the-100-best-novels-written-in-english-the-full-list)
+
 - Goodreads lists of 
 [things I want to read](https://www.goodreads.com/review/list/166266985-armando-fox?shelf=to-read),
 [currently reading](https://www.goodreads.com/review/list/166266985-armando-fox?shelf=currently-reading),
@@ -36,6 +38,16 @@ blog page](/category/Book+summary)
 
 - And of course like all pretentious people I harvest
 [quotes](/quotes.md) from my reading.
+
+## Don't say "share"
+
+If you _share_ a slice of pizza with me, we each get a portion of the slice.
+
+If you "share" [sic] information with me, we each have a complete copy of the information.
+
+So don't use "share".  You can disseminate information, distribute it,
+tell people, shout it from the rooftops, announce it, declare it,
+publish it.  Not share it.  Thank you.
 
 ## Hobby projects
 
